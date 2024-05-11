@@ -35,18 +35,19 @@ O objetivo desta iniciativa é centralizar apresentações, geralmente construid
 
 Até o presente momento, a iniciativa conta com as seguintes apresentações:
 
-| **Categoria** | **Apresentação** | **Descrição** |
-| :-- | :-- | :-- |
-| 🧪 Machine Learning | [Feature Store](https://github.com/ThiagoPanini/panini-tech-stories/tree/main/feature-store) | Conceitos e boas práticas de implementação de Feature Stores em grandes companhias |
+| **Categoria** | **Apresentação** | **Descrição** | **Status** |
+| :-- | :-- | :-- | :-- |
+| 🧪 Machine Learning | [Feature Store](https://github.com/ThiagoPanini/panini-tech-stories/tree/main/feature-store) | Conceitos e boas práticas de implementação de Feature Stores em grandes companhias | <img src="https://img.shields.io/badge/Dispon%C3%ADvel-green?style=flat-square"> |
 
 ## Backlog de Materiais
 
 Tem coisa legal chegando por aí! Confira a lista de apresentações que estão saindo do forno:
 
-| **Categoria** | **Apresentação** | **Descrição** |
-| :-- | :-- | :-- |
-| ✨ Apache Spark | Primeiros passos com Apache Spark | Introdução ao Apache Spark para os primeiros passos na transformação de grandes volumes de dados |
-| 📊 Data Viz | Data Viz e Data Storytelling | Como aplicar os melhores conceitos de Data Viz e Storytelling em situações reais |
+| **Categoria** | **Apresentação** | **Descrição** | **Status** |
+| :-- | :-- | :-- | :-- |
+| ✨ Apache Spark | Primeiros passos com Apache Spark | Introdução ao Apache Spark para os primeiros passos na transformação de grandes volumes de dados | <img src="https://img.shields.io/badge/Em%20Andamento-yellow?style=flat-square"> |
+| 📊 Data Viz | Data Viz e Data Storytelling | Como aplicar os melhores conceitos de Data Viz e Storytelling em situações reais | <img src="https://img.shields.io/badge/N%C3%A3o%20Iniciado-red?style=flat-square"> |
+| ⛏️ Terraform | Impulsinando o Aprendizado em AWS com Terraform | Utilizando módulos Terraform open source para aprimorar o aprendizado em serviços de Analytics na AWS | <img src="https://img.shields.io/badge/N%C3%A3o%20Iniciado-red?style=flat-square"> |
 
 ## Contribua com a Iniciativa
 
