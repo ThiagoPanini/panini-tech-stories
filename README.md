@@ -28,7 +28,7 @@ O objetivo desta iniciativa é centralizar apresentações, geralmente construid
 
 ## Para quem é o panini-tech-stories?
 
-- 🧑‍🏫 **Apresentadores** interessados em desenvolver seus próprios materiais podem encontrar inspirações no conteúdo aqui disponibilizado
+- 🧑‍🏫 **Professores** **apresentadores** podem encontrar inspirações no conteúdo aqui disponibilizado para construir seus próprios materiais
 - 🎒 **Aprendizes** e **estudantes** podem também utilizar os materiais aqui publicados para aprender mais sobre determinados conceitos técnicos
 
 ## Materiais Disponíveis
@@ -45,9 +45,14 @@ Tem coisa legal chegando por aí! Confira a lista de apresentações que estão 
 
 | **Categoria** | **Apresentação** | **Descrição** | **Status** |
 | :-- | :-- | :-- | :-- |
-| ✨ Apache Spark | Primeiros passos com Apache Spark | Introdução ao Apache Spark para os primeiros passos na transformação de grandes volumes de dados | <img src="https://img.shields.io/badge/Em%20Andamento-yellow?style=flat-square"> |
+| ☁️ AWS | O Básico sobre Cloud Computing | Primeiras coisas que você precisa saber sobre computação em nuvem com foco em AWS | <img src="https://img.shields.io/badge/Em%20Andamento-yellow?style=flat-square"> |
+| 🎲 Big Data | Introdução a Big Data e Hadoop | Conceitos fundamentais sobre armazenamento e processamento paralelo com Hadoop (HDFS e Map Reduce) | <img src="https://img.shields.io/badge/N%C3%A3o%20Iniciado-red?style=flat-square"> |
+| 🎲 Big Data | Análise de Dados com Hive | Como o Hive auxiliou na redução da complexidade do processamento paralelo feito em Map Reduce | <img src="https://img.shields.io/badge/N%C3%A3o%20Iniciado-red?style=flat-square"> |
+| 🎲 Big Data | Primeiros Passos com Apache Spark | Introdução ao Apache Spark para a transformação de grandes volumes de dados | <img src="https://img.shields.io/badge/N%C3%A3o%20Iniciado-red?style=flat-square"> |
 | 📊 Data Viz | Data Viz e Data Storytelling | Como aplicar os melhores conceitos de Data Viz e Storytelling em situações reais | <img src="https://img.shields.io/badge/N%C3%A3o%20Iniciado-red?style=flat-square"> |
+| ☁️ AWS | Amazon Q e Gen BI | A estratégia da AWS para aprimorar a forma como desenvolvemos aplicações na nuvem | <img src="https://img.shields.io/badge/N%C3%A3o%20Iniciado-red?style=flat-square"> |
 | ⛏️ Terraform | Impulsinando o Aprendizado em AWS com Terraform | Utilizando módulos Terraform open source para aprimorar o aprendizado em serviços de Analytics na AWS | <img src="https://img.shields.io/badge/N%C3%A3o%20Iniciado-red?style=flat-square"> |
+| 🧪 Machine Learning | O Básico sobre Machine Learning | Conceitos fundamentais para entender os blocos fundamentais de um modelo de ML | <img src="https://img.shields.io/badge/N%C3%A3o%20Iniciado-red?style=flat-square"> |
 
 ## Contribua com a Iniciativa
 
