@@ -38,6 +38,7 @@ Até o presente momento, a iniciativa conta com as seguintes apresentações:
 | **Categoria** | **Apresentação** | **Descrição** | **Status** |
 | :-- | :-- | :-- | :-- |
 | 🧪 Machine Learning | [Feature Store](https://github.com/ThiagoPanini/panini-tech-stories/tree/main/feature-store) | Conceitos e boas práticas de implementação de Feature Stores em grandes companhias | <img src="https://img.shields.io/badge/Dispon%C3%ADvel-green?style=flat-square"> |
+| ☁️ AWS | O Básico sobre Cloud Computing | Primeiras coisas que você precisa saber sobre computação em nuvem com foco em AWS | <img src="https://img.shields.io/badge/Dispon%C3%ADvel-green?style=flat-square"> |
 
 ## Backlog de Materiais
 
@@ -45,7 +46,6 @@ Tem coisa legal chegando por aí! Confira a lista de apresentações que estão 
 
 | **Categoria** | **Apresentação** | **Descrição** | **Status** |
 | :-- | :-- | :-- | :-- |
-| ☁️ AWS | O Básico sobre Cloud Computing | Primeiras coisas que você precisa saber sobre computação em nuvem com foco em AWS | <img src="https://img.shields.io/badge/Em%20Andamento-yellow?style=flat-square"> |
 | 🎲 Big Data | Introdução a Big Data e Hadoop | Conceitos fundamentais sobre armazenamento e processamento paralelo com Hadoop (HDFS e Map Reduce) | <img src="https://img.shields.io/badge/N%C3%A3o%20Iniciado-red?style=flat-square"> |
 | 🎲 Big Data | Análise de Dados com Hive | Como o Hive auxiliou na redução da complexidade do processamento paralelo feito em Map Reduce | <img src="https://img.shields.io/badge/N%C3%A3o%20Iniciado-red?style=flat-square"> |
 | 🎲 Big Data | Primeiros Passos com Apache Spark | Introdução ao Apache Spark para a transformação de grandes volumes de dados | <img src="https://img.shields.io/badge/N%C3%A3o%20Iniciado-red?style=flat-square"> |
