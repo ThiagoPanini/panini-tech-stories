@@ -37,8 +37,9 @@ Até o presente momento, a iniciativa conta com as seguintes apresentações:
 
 | **Categoria** | **Apresentação** | **Descrição** | **Status** |
 | :-- | :-- | :-- | :-- |
-| 🧪 Machine Learning | [Feature Store](https://github.com/ThiagoPanini/panini-tech-stories/tree/main/feature-store) | Conceitos e boas práticas de implementação de Feature Stores em grandes companhias | <img src="https://img.shields.io/badge/Dispon%C3%ADvel-green?style=flat-square"> |
-| ☁️ AWS | O Básico sobre Cloud Computing | Primeiras coisas que você precisa saber sobre computação em nuvem com foco em AWS | <img src="https://img.shields.io/badge/Dispon%C3%ADvel-green?style=flat-square"> |
+| 🧪 Machine Learning | [Feature Store](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FThiagoPanini%2Fpanini-tech-stories%2Fmain%2Ffeature-store%2Ffeature-store.pptx&wdOrigin=BROWSELINK) | Conceitos e boas práticas de implementação de Feature Stores em grandes companhias | <img src="https://img.shields.io/badge/Dispon%C3%ADvel-green?style=flat-square"> |
+| ☁️ AWS | [O Básico sobre Cloud Computing](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FThiagoPanini%2Fpanini-tech-stories%2Fmain%2Faws%2Fcloud-computing-101.pptx&wdOrigin=BROWSELINK) | Primeiras coisas que você precisa saber sobre computação em nuvem com foco em AWS | <img src="https://img.shields.io/badge/Dispon%C3%ADvel-green?style=flat-square"> |
+| ⛏️ Terraform | [Impulsinando o Aprendizado em AWS com Terraform]() | Utilizando módulos Terraform open source para aprimorar o aprendizado em serviços de Analytics na AWS | <img src="https://img.shields.io/badge/Dispon%C3%ADvel-green?style=flat-square"> |
 
 ## Backlog de Materiais
 
@@ -51,7 +52,6 @@ Tem coisa legal chegando por aí! Confira a lista de apresentações que estão 
 | 🎲 Big Data | Primeiros Passos com Apache Spark | Introdução ao Apache Spark para a transformação de grandes volumes de dados | <img src="https://img.shields.io/badge/N%C3%A3o%20Iniciado-red?style=flat-square"> |
 | 📊 Data Viz | Data Viz e Data Storytelling | Como aplicar os melhores conceitos de Data Viz e Storytelling em situações reais | <img src="https://img.shields.io/badge/N%C3%A3o%20Iniciado-red?style=flat-square"> |
 | ☁️ AWS | Amazon Q e Gen BI | A estratégia da AWS para aprimorar a forma como desenvolvemos aplicações na nuvem | <img src="https://img.shields.io/badge/N%C3%A3o%20Iniciado-red?style=flat-square"> |
-| ⛏️ Terraform | Impulsinando o Aprendizado em AWS com Terraform | Utilizando módulos Terraform open source para aprimorar o aprendizado em serviços de Analytics na AWS | <img src="https://img.shields.io/badge/N%C3%A3o%20Iniciado-red?style=flat-square"> |
 | 🧪 Machine Learning | O Básico sobre Machine Learning | Conceitos fundamentais para entender os blocos fundamentais de um modelo de ML | <img src="https://img.shields.io/badge/N%C3%A3o%20Iniciado-red?style=flat-square"> |
 
 ## Contribua com a Iniciativa
