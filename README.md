@@ -39,7 +39,7 @@ Até o presente momento, a iniciativa conta com as seguintes apresentações:
 | :-- | :-- | :-- | :-- |
 | 🧪 Machine Learning | [Feature Store](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FThiagoPanini%2Fpanini-tech-stories%2Fmain%2Ffeature-store%2Ffeature-store.pptx&wdOrigin=BROWSELINK) | Conceitos e boas práticas de implementação de Feature Stores em grandes companhias | <img src="https://img.shields.io/badge/Dispon%C3%ADvel-green?style=flat-square"> |
 | ☁️ AWS | [O Básico sobre Cloud Computing](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FThiagoPanini%2Fpanini-tech-stories%2Fmain%2Faws%2Fcloud-computing-101.pptx&wdOrigin=BROWSELINK) | Primeiras coisas que você precisa saber sobre computação em nuvem com foco em AWS | <img src="https://img.shields.io/badge/Dispon%C3%ADvel-green?style=flat-square"> |
-| ⛏️ Terraform | [Impulsinando o Aprendizado em AWS com Terraform]() | Utilizando módulos Terraform open source para aprimorar o aprendizado em serviços de Analytics na AWS | <img src="https://img.shields.io/badge/Dispon%C3%ADvel-green?style=flat-square"> |
+| ⛏️ Terraform | [Impulsinando o Aprendizado em AWS com Terraform](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FThiagoPanini%2Fpanini-tech-stories%2Fmain%2Fterraform%2Fterraform-aws-analytics-v2.pptx&wdOrigin=BROWSELINK) | Utilizando módulos Terraform open source para aprimorar o aprendizado em serviços de Analytics na AWS | <img src="https://img.shields.io/badge/Dispon%C3%ADvel-green?style=flat-square"> |
 
 ## Backlog de Materiais
 
